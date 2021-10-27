@@ -1,1 +1,5 @@
 # FindBetaUsingSCL
+This ipynb file uses the theory behind CAPM to use a time-series regression to find a firm's beta using the SCL and a market proxy ETF or fund. The user will be able to choose a stock, market proxy, time frame, and frequency to analyze. Remember to check the assumptions of linear regression as well as the statistical significance of the alpha (intercept) and the beta (x1 coefficient).
+
+Details:
+Security characteristic line (SCL) is a regression line, plotting performance of a particular security or portfolio against that of the market portfolio at every point in time. The SCL is plotted on a graph where the Y-axis is the excess return on a security over the risk-free return and the X-axis is the excess return of the market in general. The slope of the SCL is the security’s beta, and the intercept is its alpha. Alpha is a risk-adjusted measure of the so-called active return on an investment. It is the return in excess of the compensation for the risk borne. The beta (β) of an investment is a measure of the risk arising from exposure to general market movements as opposed to idiosyncratic factors.
