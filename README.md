@@ -1,4 +1,4 @@
-# FindBetaUsingSCL
+# Find Beta Using SCL
 This ipynb file uses the theory behind CAPM to use a time-series regression to find a firm's beta using the SCL and a market proxy ETF or fund. The user will be able to choose a stock, market proxy, time frame, and frequency to analyze. Remember to check the assumptions of linear regression as well as the statistical significance of the alpha (intercept) and the beta (x1 coefficient).
 
 Details:
